@@ -3,15 +3,15 @@ body {
 }
 
 select {
-   appearance: button;
-   border: 1px solid #AAAAAA;
-   border-radius: 7px;
-   font-size: 115%;
-   margin: 20px;
-   padding: 5px 10px;
-   text-overflow: ellipsis;
-   white-space: nowrap;
-   width: 300px;
+	appearance: button;
+	border: 1px solid #AAAAAA;
+	border-radius: 7px;
+	font-size: 115%;
+	margin: 20px;
+	padding: 5px 10px;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	width: 300px;
 }
 
 .button {
